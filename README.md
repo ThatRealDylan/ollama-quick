@@ -7,7 +7,7 @@
 # Ollama
 
 Get up and running with large language models. with quick torrent downloads.
-(These torrents are not offical from ollama team. these rae unoffical fan-made torrents.)
+(These torrents are not offical from ollama team. these are unoffical fan-made torrents.)
 
 ### macOS
 

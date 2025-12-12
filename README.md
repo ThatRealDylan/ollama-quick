@@ -6,21 +6,25 @@
 
 # Ollama
 
-Get up and running with large language models.
+Get up and running with large language models. with quick torrent downloads.
+(These torrents are not offical from ollama team. these rae unoffical fan-made torrents.)
 
 ### macOS
 
 [Download](https://ollama.com/download/Ollama.dmg)
+(NOT TORRENT DOWNLOAD)
 
 ### Windows
 
 [Download](https://ollama.com/download/OllamaSetup.exe)
+(NOT TORRENT DOWNLOAD)
 
 ### Linux
 
 ```shell
 curl -fsSL https://ollama.com/install.sh | sh
 ```
+(NOT TORRENT DOWNLOAD)
 
 [Manual install instructions](https://docs.ollama.com/linux#manual-install)
 
